@@ -1,0 +1,23 @@
+YANG DIHILANGKAN
+
+===MENU SISWA DAN PENGAJAR==
+-data SISWA
+-fillter cepat (kanan atas)
+-update cepat bawah
+-tambah siswa pindah kanan
+-ceckbox depan hilang
+-email default pada tambah data hilang
+
+
+====MENU MATERI ===
+-status terbit hilang
+-jenis filer hilang
+-junlah pembaca hilang
+-jumlah komentar hilang
+-tanggal dibuat hilang
+-status terbit di edit hilang
+
+=====DETIL MATERI====
+-komentar hilang
+-materi terkait hilang
+-detail posting hilang duatas
